@@ -19,7 +19,7 @@ printf 'Ny' | sh cwp-modpagespeed.sh
 
 
 Important Paths:
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+============================================================
 
 /usr/local/apache/modules/mod_pagespeed.so
 
